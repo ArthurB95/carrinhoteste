@@ -1,0 +1,31 @@
+.header {
+  background-color: #0F52BA;
+  position: fixed;
+  width: 100%;
+  z-index: 1;
+}
+
+.header > div {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.title {
+  color: #FFFFFF
+}
+
+.strong {
+  font-size: 40px;
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 15px;
+  }
+
+  .strong {
+    font-size: 20px;
+  }
+}
