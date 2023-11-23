@@ -19,7 +19,7 @@
 
 ## 💻 About the project
 
-- 🚀 This project simulates an ecommerce where it is possible to search for items and it is also possible to add items to the shopping cart: https://car-show-case-tj6q.vercel.app/
+- 🚀 This project simulates an ecommerce where it is possible to search for items and it is also possible to add items to the shopping cart: https://carrinhoteste.vercel.app/
 - 👨‍💻 Car Showcase - The intention of this project is that you can locate the car you want through the website filter and be able to see the website information
 
 ---
